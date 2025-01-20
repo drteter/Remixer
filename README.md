@@ -15,7 +15,7 @@ A content remixing tool using React.
 3. Vercel
 4. Claude API
 
-##Challenges
+## Challenges
 
 1. Add in another AI API
 2. Add a way to upload audio files to have them transcribed
