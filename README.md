@@ -12,15 +12,5 @@ A content remixing tool using React.
 
 1. React
 2. Tailwind CSS
-3. Vercel
+3. Vite
 4. Claude API
-
-## Challenges
-
-1. Add in another AI API
-2. Add a way to upload audio files to have them transcribed
-3. Click to tweet or schedule a tweet from the output
-4. Add a way to save the remixed output to the database.  
-
-
-
